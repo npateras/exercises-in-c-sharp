@@ -1,0 +1,13 @@
+C:\Users\nikol\source\repos\FinalErgasia1\FinalErgasia1\bin\Debug\FinalErgasia1.exe.config
+C:\Users\nikol\source\repos\FinalErgasia1\FinalErgasia1\bin\Debug\FinalErgasia1.exe
+C:\Users\nikol\source\repos\FinalErgasia1\FinalErgasia1\bin\Debug\FinalErgasia1.pdb
+C:\Users\nikol\source\repos\FinalErgasia1\FinalErgasia1\obj\Debug\FinalErgasia1.Leaderboards.resources
+C:\Users\nikol\source\repos\FinalErgasia1\FinalErgasia1\obj\Debug\FinalErgasia1.Main.resources
+C:\Users\nikol\source\repos\FinalErgasia1\FinalErgasia1\obj\Debug\FinalErgasia1.Game.resources
+C:\Users\nikol\source\repos\FinalErgasia1\FinalErgasia1\obj\Debug\FinalErgasia1.Forms.Stats.resources
+C:\Users\nikol\source\repos\FinalErgasia1\FinalErgasia1\obj\Debug\FinalErgasia1.Properties.Resources.resources
+C:\Users\nikol\source\repos\FinalErgasia1\FinalErgasia1\obj\Debug\FinalErgasia1.Settings.resources
+C:\Users\nikol\source\repos\FinalErgasia1\FinalErgasia1\obj\Debug\FinalErgasia1.csproj.GenerateResource.cache
+C:\Users\nikol\source\repos\FinalErgasia1\FinalErgasia1\obj\Debug\FinalErgasia1.csproj.CoreCompileInputs.cache
+C:\Users\nikol\source\repos\FinalErgasia1\FinalErgasia1\obj\Debug\FinalErgasia1.exe
+C:\Users\nikol\source\repos\FinalErgasia1\FinalErgasia1\obj\Debug\FinalErgasia1.pdb

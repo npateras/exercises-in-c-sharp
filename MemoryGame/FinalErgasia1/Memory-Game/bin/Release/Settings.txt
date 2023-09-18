@@ -1,0 +1,2 @@
+[Images]Custom
+[Directory]D:\Downloads (HDD)\test2
